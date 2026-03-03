@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Chetan Siddaraju
+### 👋 Hi, I'm Chetan Siddaraju — from New York 🗽
 
 🔭 **IAM & PAM Security Engineer** with 3+ years of experience in identity and access management, privileged access management, and security automation.
 
@@ -7,6 +7,8 @@
 💬 Ask me about: **Secrets Management, PAM, IAM, Cloud Security (Azure)**
 
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/chetan-siddaraju-82b174186) | [Email](mailto:Chetansid97@gmail.com)
+
+📍 **Location:** New York 🗽
 
 ⚡ Fun fact: I automate things so I don't have to do them twice.
 
@@ -62,3 +64,11 @@
 Python script that automates CyberArk Conjur secret retrieval using IAM authentication. Reduces simulated manual fetch time by 70% and implements audit logging for compliance tracking.
 
 **Tech Stack:** Python, CyberArk Conjur API, AWS IAM, REST APIs, JSON, Logging
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/chetan-siddaraju-82b174186)
+- 📍 **New York**
+- 📧 [Chetansid97@gmail.com](mailto:Chetansid97@gmail.com)
