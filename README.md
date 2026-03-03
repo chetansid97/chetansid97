@@ -2,9 +2,9 @@
 
 🔭 **IAM & PAM Security Engineer** with 3+ years of experience in identity and access management, privileged access management, and security automation.
 
-🌱 Skilled in **CyberArk Conjur, Azure, Python, PowerShell,** and CI/CD security integration.
+🌱 Skilled in **Azure, Python, PowerShell, CI/CD security integration, CyberArk Conjur**.
 
-💬 Ask me about: **Secrets Management, PAM, IAM, Cloud Security (Azure)**
+💬 Ask me about: **Secrets Management, PAM, IAM, Cloud Security (Azure), Cryptography**
 
 📫 How to reach me: [LinkedIn](https://linkedin.com/in/chetan-siddaraju-82b174186) | [Email](mailto:Chetansid97@gmail.com)
 
