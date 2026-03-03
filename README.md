@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300" />
+  <img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhhajA4bDh1cW40Nm05bXhicXRoYm5rMzNhazR0bTZ6cDVoczZ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYB6hJTUDuBwX7i/giphy.gif)" width="600" height="300" />
 </div>
-
-### 👋 Hi, I'm Chetan Siddaraju — from New York 🗽
 
 ### 👋 Hi, I'm Chetan Siddaraju — from New York 🗽
 
