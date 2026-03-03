@@ -1,4 +1,6 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZrdTdpc253MTFuNGU4OTdndmRqa25jOWRneWZiYnhhdDEyNnhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZGm5KHYAgeB3L7nP8f/giphy.gif" width="400" height="225" />
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZrdTdpc253MTFuNGU4OTdndmRqa25jOWRneWZiYnhhdDEyNnhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZGm5KHYAgeB3L7nP8f/giphy.gif" width="800" height="400" />
+</div>
 
 ### 👋 Hi, I'm Chetan Siddaraju — from New York 🗽
 
