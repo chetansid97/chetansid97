@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l0MYB6hJTUDuBwX7i/giphy.gif" width="480" height="360" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZrdTdpc253MTFuNGU4OTdndmRqa25jOWRneWZiYnhhdDEyNnhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZGm5KHYAgeB3L7nP8f/giphy.gif" width="400" height="225" />
 
 ### 👋 Hi, I'm Chetan Siddaraju — from New York 🗽
 
