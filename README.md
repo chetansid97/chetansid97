@@ -6,7 +6,7 @@
 
 💬 Ask me about: **Secrets Management, PAM, IAM, Cloud Security (Azure)**
 
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/chetan-siddaraju-82b174186)
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/chetan-siddaraju-82b174186) | [Email](mailto:Chetansid97@gmail.com)
 
 ⚡ Fun fact: I automate things so I don't have to do them twice.
 
@@ -56,8 +56,9 @@
 
 ---
 
-### 📌 Pinned Projects
+### 📌 Featured Project
 
-Here are some of my projects you can check out:
+#### 🔹 [Conjur IAM Automation Script](https://github.com/chetansid97/conjur-iam-automation)
+Python script that automates CyberArk Conjur secret retrieval using IAM authentication. Reduces simulated manual fetch time by 70% and implements audit logging for compliance tracking.
 
-- [**Conjur IAM Automation Script**](https://github.com/chetansid97/conjur-iam-automation) - Python script to automate CyberArk Conjur secret retrieval using IAM authentication.
+**Tech Stack:** Python, CyberArk Conjur API, AWS IAM, REST APIs, JSON, Logging
