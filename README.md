@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300" />
+</div>
+
+### 👋 Hi, I'm Chetan Siddaraju — from New York 🗽
+
 ### 👋 Hi, I'm Chetan Siddaraju — from New York 🗽
 
 🔭 **IAM & PAM Security Engineer** with 3+ years of experience in identity and access management, privileged access management, and security automation.
