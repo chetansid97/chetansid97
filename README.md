@@ -75,4 +75,4 @@ Python script that automates CyberArk Conjur secret retrieval using IAM authenti
 
 - 💼 [LinkedIn](https://linkedin.com/in/chetan-siddaraju-82b174186)
 - 📍 **New York**
-- 📧 [Chetansid05@gmail.com](mailto:Chetansid05@gmail.com)
+- 📧 [Chetansid97@gmail.com](mailto:Chetansid97@gmail.com)
